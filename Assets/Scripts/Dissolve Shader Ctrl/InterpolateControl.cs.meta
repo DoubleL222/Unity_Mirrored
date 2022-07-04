@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f78e9bbe5d22cdc439d3bdaebdc666eb
+timeCreated: 1504729899
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - dissolveM: {fileID: 2100000, guid: 5ad9f4b37722c6343b681b21ca1c3eda, type: 2}
+  - dissolveM_Fire: {fileID: 2100000, guid: 5e7023df3fb023b4198bee6b9d7a186f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
